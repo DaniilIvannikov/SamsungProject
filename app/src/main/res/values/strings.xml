@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SamsungProject</string>
+    <string name="select_mode">Select Mode</string>
+    <string name="snake">Snake</string>
+    <string name="modes">Modes:</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe</string>
+    <string name="game_center">Game Center</string>
+    <string name="back">Back</string>
+</resources>
